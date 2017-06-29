@@ -6,6 +6,8 @@ layout: page
 ---
 The **PARLOMA** project is aimed at creating a robotic system to allow remote communication between two deafblind people, a deafblind person to a deaf person and a deafblind person to a hearing person with a knowledge of sign language.
 
+![PARLOMA Schema](/assets/img/main.png)
+
 Deafblind people are unable to hear and see, generally they are born deaf, then they gradually become blind. As a matter of fact deafblind people first learn Sign Language (SL), then when they go blind they modify their way of communicating into Tactile Sign Language (TSL). The main drawback of this method is that the signer (*speaker*) and the receiver (*listener*) must be in the same place, one next to the other. Secondly, only one-to-one conversations are possible, because in TSL the *listener* has to touch and follow with his hands those of the sogner.
 
 Nowadays there are three possible communication scenarios in which deafblind people can be involved:
