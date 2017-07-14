@@ -25,7 +25,7 @@ This project paves the way for the first trial ever thought (to the best of our 
 
 Our system, still in its beta phase, is able to transfer TSL messages remotely and in real time, so that a deafblind recipient is able to understand the message conveyed by the signer ("the speaker"). The signer communicates using a regular keyboard or signing in front of a low-cost depth camera (like the Microsoft Kinect). Input information are digitally processed, encrypted and transmitted reliably over the web. Everywhere in the world, data are received, decrypted and provided to the final deaf-blind user via an haptic interface based on anthropomorphic robotic hands and arms (or many users, if different hands are connected to the web).
 
-## Out Vision
+## Our Vision
 
 Deaf-blind people are individuals who are not able to see neither to hear. The term deaf-blindness describes a condition that combines varying degrees of hearing disability and visual impairment. Two sensory disabilities multiply and intensify the impact of each other creating a severe disability, which is certainly unique and different for any affected person. This forces us to develop and offer services radically different from those designed exclusively for people who are blind or deaf. In addition, deaf-blinds specific needs vary greatly depending on their age, the age of onset of the disability and type of deaf-blindness.
 
