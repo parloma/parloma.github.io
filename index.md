@@ -31,6 +31,6 @@ Deaf-blind people are individuals who are not able to see neither to hear. The t
 
 The deaf-blindness, in most cases caused by a disease called Usher syndrome, prevents deaf-blind people to live an independent and autonomous life. The total impossibility of being able to see, hear and speak are the premises of a state of absolute isolation and depression. Deaf-blindness causes a large set of limitations, related to communication, personal and autonomous learning, in addition to serious difficulties in the perception of the surrounding environment and interpersonal relationships. The development of a system allowing remote communication for deaf-blind people would greatly affect their perception of integration into society, as it would enable them to cultivate relationships without the obvious need to be in the same place. In fact, TSL requires physical contact between interlocutors. So far there have been no concrete investment and technological solutions designed to support this severe form of disability. PARLOMA aims to narrow this gap, providing an innovative communication tool and new opportunities for deaf-blind people, limiting the state of isolation in which they are often forced to live.
 
-## Concact Us
+## Contact Us
 
 If you have questions, are curious and/or willing to collaborate with us, please visit our website and search us on YouTube, Facebook, Twitter and Google+!
