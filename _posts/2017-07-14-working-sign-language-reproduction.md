@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Working on Sign Language Reproduciton"
+title:  "Working on Sign Language Reproduction"
 date:   2017-07-13
 author: Ludovico Orlando Russo
 ---
