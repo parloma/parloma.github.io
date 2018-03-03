@@ -2,18 +2,18 @@
 layout: post
 title:  "Parloma Robotic Hand Builds and Upgrades"
 date:   2017-05-30
-categories: [news, robot]
+categories: [news, robotic hand]
 ---
 
 
 # Parloma Robotic Hand Builds and Upgrades
 
+## Time for real-world testing 
+In order to accomplish some real-word trials, two Parloma robotic hands had been builded.  
 
 
 
-
-DotBot Pi è un robot OpenSource sviluppato da Ludovico Russo e [HotBlack Robotics](www.hotblackrobotics.com). È il primo robot DotBot interamente
-compatbile con la piattaforma HBR di Cloud Robotics e semplice da montare!
+Booooooooooooooooooooooh [HotBlack Robotics](www.hotblackrobotics.com). Ma si solo per ricordarmi un po di sintassi.
 
 ![DotBot Image](/assets/imgs/2017-05-28-contributions.md/cba944d8425bd5ed84eacdee732a950f_preview_featured.JPG)
 
