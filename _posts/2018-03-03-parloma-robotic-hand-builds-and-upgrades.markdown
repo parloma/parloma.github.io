@@ -11,7 +11,7 @@ categories: [news, robotic hand]
 In order to make some intense real-word trials, two Parloma robotic hands and forearms had been assembled. 
 During the process, few parts of the overall system showed up to require some redisign due to poor functionality and/or lack of rubustness. Those upgrades are moslty about control communication, power supply distribution and the outer control box. 
 
-# The Hand 
+## The Hand 
 The hand had been reproduced 
 
 
