@@ -19,7 +19,7 @@ The hands, like much of the forearms, had been reproduced straight close to the 
 Post-processing the printed parts has been critical in order to make them fit together or slide in case of joints.   
 Bowden made out of Teflon [(PTFE)](https://en.wikipedia.org/wiki/Polytetrafluoroethylene) had been used to route the artificial tendons through smooth paths within the palm end the forearm toward the motor's pulleys. 
 
-## The Forearm
+## Forearm 
 The outer structure of the forearm, the single-axis robotic wrist as well as the motors/bowden support frame, are kept identical to the original [Parloma Project](https://www.thingiverse.com/thing:701494) 3D models.  
 
 ![Forearm image](/assets/imgs/2018-03-03-parloma-imgs/IMG_0354.png)
@@ -30,4 +30,8 @@ Servos power supply distribution and conditioning circuit have been improved as 
 
 ![Power electronics](/assets/imgs/2018-03-03-parloma-imgs/IMG_0405.png)
 
-## The Control Box
+The base of the forearm has been redesigned to add functionality and improve robustness. The 3D model of the part is designed combining non-parametrical feature to fit the organic shape of the forearm's outer mesh geometry. 
+
+
+
+## Control Box
