@@ -8,11 +8,13 @@ categories: [news, robotic hand]
 
 # Parloma Robotic Hand Builds and Upgrades
 
-In order to make some intense real-word trials, two Parloma robotic hands and forearms had been assembled. 
+In order to make some real-word human interaction trials, two of the Parloma robotic hand and forearm had been assembled. 
 During the process, few parts of the overall system showed up to require some redisign due to poor functionality and/or lack of rubustness. Those upgrades are moslty about control communication, power supply distribution and the outer control box. 
 
 ## The Hand 
-The hand had been reproduced 
+The hands, like most of the forearms, had been reproduced stright close to the original Parloma project: 24 [3D-printed PLA parts] (https://www.thingiverse.com/thing:701446) assembled with glue, screws, 8mm alluminum/2mm steel joint axes and 45x3x0.3mm stainless steel springs. 
+
+Post-processing has been critical in order to make the printed parts fit together or slide in case of joints.   
 
 
 
