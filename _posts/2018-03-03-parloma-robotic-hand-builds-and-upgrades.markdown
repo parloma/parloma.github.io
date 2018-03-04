@@ -28,9 +28,11 @@ At this point, we've just started to introduce some necessary improvements. Like
 
 Servos power supply distribution and conditioning circuit have been improved as well, leveraging few miniaturized DC-DC step-down [power converters](https://www.amazon.com/eBoot-MP1584EN-Converter-Adjustable-Module/dp/B01MQGMOKI/ref=sr_1_7?ie=UTF8&qid=1520169701&sr=8-7&keywords=Buck+Converter+DC+DC+Step+Down), one for each couple of motors, integrated within the forearm and connected in parallel to the robot's 12V power input.  
 
-![Power electronics](/assets/imgs/2018-03-03-parloma-imgs/IMG_0405.png)
+![Power electronics1](/assets/imgs/2018-03-03-parloma-imgs/IMG_0405.png)
 
-The base of the forearm has been redesigned to add functionality and improve robustness. The 3D model of the part is designed combining non-parametrical feature to fit the organic shape of the forearm's outer mesh geometry. 
+The base of the forearm has been redesigned to add functionality and improve robustness. The 3D model is designed combining non-parametrical features to fit the organic shape of the forearm's outer mesh geometry. 
+
+![Power electronics1](/assets/imgs/2018-03-03-parloma-imgs/IMG_0322.png)
 
 
 
