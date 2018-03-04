@@ -12,7 +12,7 @@ In order to make some real-word human interaction trials, two of the Parloma rob
 During the process, few parts of the overall system showed up to require some redisign due to poor functionality and/or lack of rubustness. Those upgrades are moslty about control communication, power supply distribution and the outer control box. 
 
 ## The Hand 
-The hands, like much of the forearms, had been reproduced stright close to the original [Parloma project](https://www.thingiverse.com/thing:701446): 24 3D-printed PLA parts assembled with glue, screws, 8mm alluminum/2mm steel joint axes and 45x3x0.3mm stainless steel springs. 
+The hands, like much of the forearms, had been reproduced stright close to the original [Parloma project](https://www.thingiverse.com/thing:701446): 24 3D-printed PLA parts put together with glue, self-tapping M2 screws, 8mm alluminum/2mm steel joint axes and 45x3x0.3mm springs. 
 
 ![Hand image](/assets/imgs/2018-03-03-parloma-imgs/IMG_0282.png)
 
@@ -24,8 +24,7 @@ The main outer structure, as well as the motors and bowdens support frame, are k
 
 At this point we've just stared to introduce some improvements. Like the main drive motors that has been upgraded to a more fresh and a bit oversized digital, metal geared, 12Kg/cm torque standard servo option. 
 
-Servos power supply contitioning circuit has been inprooved as well, leveraging few miniaturized DC-DC PCB power converters, one for each couple of motors, integrated within the forearm and connectd in parallel to the main 12V power source of the robot.  
-
+Servos power supply contitioning circuit has been inprooved as well, leveraging few miniaturized DC-DC step-down [power converters](https://www.amazon.com/eBoot-MP1584EN-Converter-Adjustable-Module/dp/B01MQGMOKI/ref=sr_1_7?ie=UTF8&qid=1520169701&sr=8-7&keywords=Buck+Converter+DC+DC+Step+Down), one for each couple of motors, integrated within the forearm and connectd in parallel to the robot's 12V main power source.  
 
 
 
