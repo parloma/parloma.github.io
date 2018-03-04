@@ -20,13 +20,13 @@ Post-processing has been critical in order to make the printed parts fit togethe
 Bowden pipes made out of teflon [(PTFE)](https://en.wikipedia.org/wiki/Polytetrafluoroethylene) has been used to route the artificial tendos through smooth paths within the palm end the forearm toward the motor's pulleys. 
 
 ## The Forearm
-The main outer structure, as well as the motors and bowdens support frame, are kept identical to the original [Parloma Project](https://www.thingiverse.com/thing:701494). 
+The main outer structure, the single-axis wrist as well as the motors and bowdens support frame, are kept identical to the original [Parloma Project](https://www.thingiverse.com/thing:701494). 
+
+![Forearm image](/assets/imgs/2018-03-03-parloma-imgs/IMG_0354.png)
 
 At this point we've just stared to introduce some improvements. Like the main drive motors that has been upgraded to a more fresh and a bit oversized digital, metal geared, 12Kg/cm torque standard servo option. 
 
-Servos power supply contitioning circuit has been inprooved as well, leveraging few miniaturized DC-DC step-down [power converters](https://www.amazon.com/eBoot-MP1584EN-Converter-Adjustable-Module/dp/B01MQGMOKI/ref=sr_1_7?ie=UTF8&qid=1520169701&sr=8-7&keywords=Buck+Converter+DC+DC+Step+Down), one for each couple of motors, integrated within the forearm and connectd in parallel to the robot's 12V main power source.  
-
-
+Servos power supply distribution and contitioning circuit has been inprooved as well, leveraging few miniaturized DC-DC step-down [power converters](https://www.amazon.com/eBoot-MP1584EN-Converter-Adjustable-Module/dp/B01MQGMOKI/ref=sr_1_7?ie=UTF8&qid=1520169701&sr=8-7&keywords=Buck+Converter+DC+DC+Step+Down), one for each couple of motors, integrated within the forearm and connectd in parallel to the robot's 12V main power source.  
 
 ## The Control Box
 
