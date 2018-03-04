@@ -30,10 +30,13 @@ Servos power supply distribution and conditioning circuit have been improved as 
 
 ![Power electronics1](/assets/imgs/2018-03-03-parloma-imgs/IMG_0405.png)
 
-The base of the forearm has been redesigned to add functionality and improve robustness. The 3D model is designed combining non-parametrical features to fit the organic shape of the forearm's outer mesh geometry. 
+The base of the forearm has been redesigned to add functionality and improve robustness. The 3D model is designed combining parametrical and non-parametrical features to fit the organic shape of the forearm's outer mesh geometry. 
+
+![Base Combo](/assets/imgs/2018-03-03-parloma-imgs/Base_combo.png)
 
 ![Power electronics1](/assets/imgs/2018-03-03-parloma-imgs/IMG_0322.png)
 
-
-
 ## Control Box
+
+
+
