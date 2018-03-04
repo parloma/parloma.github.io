@@ -16,7 +16,8 @@ The hands, like most of the forearms, had been reproduced stright close to the o
 
 ![Hand image](/assets/imgs/2018-03-03-parloma-imgs/IMG_0282.png)
 
-Post-processing has been critical in order to make the printed parts fit together or slide in case of joints.   
+Post-processing has been critical in order to make the printed parts fit together and slide in case of joints.   
+Bowden pipes made out of teflon [(PTFE)](https://en.wikipedia.org/wiki/Polytetrafluoroethylene) has been used to route the artificial tendos through smooth paths within the palm end the forearm toward the motor's pulleys. 
 
 
 
