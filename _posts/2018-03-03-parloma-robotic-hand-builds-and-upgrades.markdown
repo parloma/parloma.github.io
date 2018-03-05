@@ -39,6 +39,9 @@ The connectors, upgraded to more robust options, has been moved to the side of t
 
 ## Control Box 
   
-The control box is designed to store in one external module a Raspberry Pi 3, an Arduino Mega and the main power unit, providing all the necessary ports for a smooth set up of the system. There is also a hinged opening to allow easy access to the electronic boards.
+The control box is designed to store in one external module a Raspberry Pi 3, an Arduino Mega and the main [power unit](https://www.amazon.com/DROK-Converter-110-220V-Regulator-Switching/dp/B075R7ZVMH/ref=sr_1_1?ie=UTF8&qid=1520288706&sr=8-1&keywords=DROK®+power+AC-DC+DC+12V+8.5), providing all the necessary ports for a smooth set up of the system. There is also a hinged opening to allow easy access to the electronic boards.
 
+![Power electronics1](parloma.github.io/assets/imgs/2018-03-03-parloma-imgs/box1.png)
+
+![Power electronics1](parloma.github.io/assets/imgs/2018-03-03-parloma-imgs/box2.png)
 
