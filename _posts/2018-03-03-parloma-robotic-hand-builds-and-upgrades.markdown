@@ -26,17 +26,25 @@ The outer structure of the forearm, the single-axis robotic wrist as well as the
 
 At this point, we've just started to introduce some necessary improvements. Like the main servo motors that have been upgraded to a newer and a bit oversized option. Like the digital [MG996R](https://www.amazon.com/Qunqi-MG996R-Digital-Torque-Helicopter/dp/B014KONJZY/ref=sr_1_5?ie=UTF8&qid=1520184911&sr=8-5&keywords=MG996R), capable of 11Kg/cm of torque with more overall mechanical and thermal stability than their analog counterparts. 
 
-Servos power supply distribution and conditioning circuit have been improved as well, leveraging few miniaturized DC-DC step-down [power converters](https://www.amazon.com/eBoot-MP1584EN-Converter-Adjustable-Module/dp/B01MQGMOKI/ref=sr_1_7?ie=UTF8&qid=1520169701&sr=8-7&keywords=Buck+Converter+DC+DC+Step+Down), one for each couple of motors, integrated within the forearm and connected in parallel to the robot's 12V power input.  
+Servos power supply distribution and conditioning circuit have been improved as well, leveraging few miniaturized DC-DC step-down [power converters](https://www.amazon.com/eBoot-MP1584EN-Converter-Adjustable-Module/dp/B01MQGMOKI/ref=sr_1_7?ie=UTF8&qid=1520169701&sr=8-7&keywords=Buck+Converter+DC+DC+Step+Down), one for each couple of motors, integrated within the forearm and connected in parallel to the robot's single 12V power input.  
 
 ![Power electronics1](/assets/imgs/2018-03-03-parloma-imgs/IMG_0405.png)
 
-The base of the forearm has been redesigned to add functionality and improve robustness. The 3D model is designed combining parametrical and non-parametrical features to fit the organic shape of the forearm's outer mesh geometry. 
+The base of the forearm has been redesigned to add functionality and improve robustness  combining parametrical and non-parametrical features to fit the organic shape of the forearm's outer mesh geometry. 
+The main purpose of the component is to hold all the electrical connections of the robot. Power supply and control data are provided by the external control box through separate cables. 
+The connectors have been upgraded and moved to the side of the forearm and are now accessible in more installation scenarios while the extra volume in the component can store more electronics for future upgrades. The connection is also mechanical by means of M4 nuts placed at the bottom surface.   
 
-![Base Combo](/assets/imgs/2018-03-03-parloma-imgs/Base_combo.png)
 
-![Power electronics1](/assets/imgs/2018-03-03-parloma-imgs/IMG_0322.png)
 
-## Control Box
+
+
+
+
+![Power electronics1](/assets/imgs/2018-03-03-parloma-imgs/IMG_0322.jpeg)
+
+## Control Box 
+  
+ 
 
 
 
