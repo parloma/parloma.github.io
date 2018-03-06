@@ -8,7 +8,7 @@ categories: [news, robotic hand]
 
 # Parloma Robotic Hand Builds and Upgrades
 
-In order to make some real-word human interaction trials, two of the Parloma robotic hand and forearm prototypes had been assembled. 
+In order to make real-word human interaction trials, two of the Parloma robotic hand and forearm prototypes, one left and one right, had been assembled. 
 During the process, few parts of the overall system showed up to require some redesign due to poor functionality and/or lack of robustness. Those upgrades are mostly about control communication, power supply distribution and the outer control box. 
 
 ## The Hand        
@@ -49,5 +49,5 @@ The control box is designed to store in one external module a Raspberry Pi 3, an
 
 ![Box1](/assets/imgs/2018-03-03-parloma-imgs/box1.jpeg)
 
-![Box2](/assets/imgs/2018-03-03-parloma-imgs/box2.png)
+![Box3](/assets/imgs/2018-03-03-parloma-imgs/box3.png)
 
