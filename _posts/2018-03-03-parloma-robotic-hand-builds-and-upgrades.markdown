@@ -30,18 +30,24 @@ Servos power supply distribution and conditioning circuit have been improved as 
 
 ![Power electronics1](/assets/imgs/2018-03-03-parloma-imgs/IMG_0405.png)
 
-The base of the forearm has been redesigned to add functionality and improve robustness combining parametrical and non-parametrical features to fit the organic shape of the forearm's outer mesh geometry. 
+The base of the forearm has been redesigned adding functionalities and improving robustness combining parametrical and non-parametrical features to fit the organic shape of the forearm's outer mesh geometry. 
+
+![Power electronics1](/assets/imgs/2018-03-03-parloma-imgs/Base_combo.png)
 
 The main purpose of the component is to hold all the electrical connections of the robot. Power supply and control data are provided by the external control box through separate cables. 
 The connectors, upgraded to more robust options, has been moved to the side of the forearm and are now accessible in more installation scenarios while the extra volume in the component can store more electronics for future upgrades. The connection is also mechanical by means of 3 M4 nuts placed at the bottom surface.   
 
 ![Power electronics1](/assets/imgs/2018-03-03-parloma-imgs/IMG_0322.jpeg)
 
+Once both right and left arms are assembled, it's time to proceed with the control modules.
+
+![finished arms](/assets/imgs/2018-03-03-parloma-imgs/Finished_arms.jpg)
+
 ## Control Box 
   
 The control box is designed to store in one external module a Raspberry Pi 3, an Arduino Mega and the main [power unit](https://www.amazon.com/DROK-Converter-110-220V-Regulator-Switching/dp/B075R7ZVMH/ref=sr_1_1?ie=UTF8&qid=1520288706&sr=8-1&keywords=DROK®+power+AC-DC+DC+12V+8.5), providing all the necessary ports for a smooth set up of the system. There is also a hinged opening to allow easy access to the electronic boards.
 
-![Power electronics1](/assets/imgs/2018-03-03-parloma-imgs/box1.png)
+![Box1](/assets/imgs/2018-03-03-parloma-imgs/box1.jpeg)
 
-![Power electronics1](/assets/imgs/2018-03-03-parloma-imgs/box2.png)
+![Box2](/assets/imgs/2018-03-03-parloma-imgs/box2.png)
 
