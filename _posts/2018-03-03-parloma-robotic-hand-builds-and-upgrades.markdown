@@ -31,6 +31,7 @@ Servos power supply distribution and conditioning circuit have been improved as 
 ![Power electronics1](/assets/imgs/2018-03-03-parloma-imgs/IMG_0405.png)
 
 The base of the forearm has been redesigned introducing functionalities and improving robustness. It has been modeled in CAD combining parametrical and non-parametrical features to fit the organic shape of the forearm's outer mesh geometry. 
+
 The main purpose of the component is to hold all the electrical connections of the robot, power supply and control data that are provided by the external control box through separate cables.
 
 ![Power electronics1](/assets/imgs/2018-03-03-parloma-imgs/Base_combo.png)
@@ -45,7 +46,9 @@ Once both right and left arms are assembled, it's time to proceed with the contr
 
 ## Control Box 
   
-The control box is designed to store a Raspberry Pi 3, an Arduino Mega and the main [power unit](https://www.amazon.com/DROK-Converter-110-220V-Regulator-Switching/dp/B075R7ZVMH/ref=sr_1_1?ie=UTF8&qid=1520288706&sr=8-1&keywords=DROK®+power+AC-DC+DC+12V+8.5) in single external module, providing all the necessary ports for a smooth set up of the system. There is also a hinged opening to allow easy access to the electronic boards.
+The control box is designed to store a Raspberry Pi 3, an Arduino Mega and the main [power unit](https://www.amazon.com/DROK-Converter-110-220V-Regulator-Switching/dp/B075R7ZVMH/ref=sr_1_1?ie=UTF8&qid=1520288706&sr=8-1&keywords=DROK®+power+AC-DC+DC+12V+8.5) in single external module, providing all the necessary ports for a smooth set up of the system. It features also a hinged opening to allow easy access to the electronic boards.
+
+The module's main structure is composed by two main printed parts glued together while the hinged top cover and the power unit side cover are printed sparately. The top cover hinge is made with M3x18 machine screws and lock itself while closed through a snap fit mechanism. 
 
 ![Box1](/assets/imgs/2018-03-03-parloma-imgs/box1.jpeg)
 
