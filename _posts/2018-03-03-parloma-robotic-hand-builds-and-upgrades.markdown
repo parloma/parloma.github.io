@@ -16,7 +16,7 @@ The hands, like much of the forearms, had been reproduced from the original [Par
 
 ![Hand image](/assets/imgs/2018-03-03-parloma-imgs/IMG_0282.png)
 
-Post-processing the printed parts has been critical in order to add tolerances and make them fit together or slide in case of joints.   
+Post-processing the printed parts has been critical in order to add tolerances making them fit together or slide in case of joints.   
 Bowden pipes made out of Teflon [(PTFE)](https://en.wikipedia.org/wiki/Polytetrafluoroethylene) had been used to route the artificial tendons through smooth paths within the palm end the forearm toward the motor's pulleys. 
 
 ## Forearm 
