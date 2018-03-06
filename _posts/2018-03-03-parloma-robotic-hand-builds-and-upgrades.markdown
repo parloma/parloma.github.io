@@ -20,6 +20,8 @@ Post-processing the printed parts has been critical in order to add tolerances m
 Bowden pipes made out of Teflon [(PTFE)](https://en.wikipedia.org/wiki/Polytetrafluoroethylene) had been used to route the artificial tendons through smooth paths within the palm end the forearm toward the motor's pulleys. 
 
 ## Forearm 
+The forearm is where the actuation unit is located, servo motors an power electronics are packed inside the shell providing force to the fingers trough bowden cables. 
+
 The outer structure of the forearm, the single-axis robotic wrist as well as the motors/bowden support frame, are kept identical to the original [Parloma Project 3D models](https://www.thingiverse.com/thing:701494).  
 
 ![Forearm image](/assets/imgs/2018-03-03-parloma-imgs/IMG_0354.png)
