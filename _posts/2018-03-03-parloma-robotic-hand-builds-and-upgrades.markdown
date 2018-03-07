@@ -20,7 +20,7 @@ Post-processing the printed parts has been critical in order to add tolerances m
 Bowden pipes made out of Teflon [(PTFE)](https://en.wikipedia.org/wiki/Polytetrafluoroethylene) had been used to route the artificial tendons through smooth paths within the palm end the forearm toward the motor's pulleys. 
 
 ## The Forearm 
-The forearm is where the actuation unit is located, servo motors an power electronics are packed inside the shell providing force to the fingers trough bowden cables. 
+The forearm is where the actuation unit is located, servo motors and power electronics, fastened on support structures inside the shell, generate forces that are trasmitted to the fingers trough bowden cables.
 
 The outer structure of the forearm, the single-axis robotic wrist as well as the motors/bowden support frame, are kept identical to the original [Parloma Project 3D models](https://www.thingiverse.com/thing:701494).  
 
@@ -56,7 +56,7 @@ The control box is designed to store a Raspberry Pi 3, an Arduino Mega and the m
 
 ![Box1](/assets/imgs/2018-03-03-parloma-imgs/box1.jpeg)
 
-The module's main structure is composed by two main printed parts glued together while the hinged top cover and the power unit side cover are printed sparately. The top cover hinge is made with M3x18 machine screws and lock itself while closed through a snap fit mechanism. 
+The module's main structure is composed by two main printed parts glued together while the hinged top cover and the power unit side cover are printed sparately. The top cover hinge mechanism works on two M3x18 machine screws with a snap-fit locking system.   
 
 ![Box3](/assets/imgs/2018-03-03-parloma-imgs/box3.png)
 
