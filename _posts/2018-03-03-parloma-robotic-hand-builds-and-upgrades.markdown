@@ -19,7 +19,7 @@ The hands, like much of the forearms, had been reproduced from the original [Par
 Post-processing the printed parts has been critical in order to add tolerances making them fit together or slide in case of joints.   
 Bowden pipes made out of Teflon [(PTFE)](https://en.wikipedia.org/wiki/Polytetrafluoroethylene) had been used to route the artificial tendons through smooth paths within the palm end the forearm toward the motor's pulleys. 
 
-## Forearm 
+## The Forearm 
 The forearm is where the actuation unit is located, servo motors an power electronics are packed inside the shell providing force to the fingers trough bowden cables. 
 
 The outer structure of the forearm, the single-axis robotic wrist as well as the motors/bowden support frame, are kept identical to the original [Parloma Project 3D models](https://www.thingiverse.com/thing:701494).  
@@ -36,17 +36,21 @@ The base of the forearm has been redesigned introducing functionalities and impr
 
 The main purpose of the component is to hold all the electrical connections of the robot, power supply and control data that are provided by the external control box through separate cables.
 
-![Power electronics1](/assets/imgs/2018-03-03-parloma-imgs/Base_combo.png)
+![Power electronics 1](/assets/imgs/2018-03-03-parloma-imgs/Base_combo.png)
  
-The connectors, upgraded to more robust options, has been moved to the side of the forearm and are now accessible in more installation scenarios while the extra volume in the component can store more electronics for future upgrades. The connection is also mechanical by means of 3 M4 nuts placed at the bottom surface.   
+The connectors, upgraded to more robust options, has been moved to the side of the forearm and are now accessible in more installation scenarios while the extra volume in the component can store more electronics for future upgrades. The connection is also mechanical by means of 3 M4 nuts placed at the bottom surface.  
 
-![Power electronics1](/assets/imgs/2018-03-03-parloma-imgs/IMG_0322.jpeg)
+![Power electronics 2](/assets/imgs/2018-03-03-parloma-imgs/IMG_0322.jpeg)
 
-Once both right and left arms are assembled, it's time to proceed with the control boxes.
+Just in case a more robust and stable holding system is needed, a simple modular support stand has beed designed for the purpose. It is with the M4 screws lock system of the new forearm's base as well as the older one. 
+
+![Holding System](/assets/imgs/2018-03-03-parloma-imgs/Stand.jpeg)
+
+Both right and left robotic hands, once fully assembled and tested, look like this. 
 
 ![finished arms](/assets/imgs/2018-03-03-parloma-imgs/Finished_arms.jpg)
 
-## Control Box 
+## The Control Box 
   
 The control box is designed to store a Raspberry Pi 3, an Arduino Mega and the main [power unit](https://www.amazon.com/DROK-Converter-110-220V-Regulator-Switching/dp/B075R7ZVMH/ref=sr_1_1?ie=UTF8&qid=1520288706&sr=8-1&keywords=DROK®+power+AC-DC+DC+12V+8.5) in single external module, providing all the necessary ports for a smooth set up of the system. It features also a hinged opening to allow easy access to the electronic boards.
 
