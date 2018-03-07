@@ -44,7 +44,7 @@ The connectors, upgraded to more robust options, has been moved to the side of t
 
 Just in case a more robust and stable holding system is needed, a simple modular support stand has beed designed for the purpose. It is with the M4 screws lock system of the new forearm's base as well as the older one. 
 
-![Holding System](/assets/imgs/2018-03-03-parloma-imgs/Stand.jpeg)
+![Holding System](/assets/imgs/2018-03-03-parloma-imgs/Stand.png)
 
 Both right and left robotic hands, once fully assembled and tested, look like this. 
 
