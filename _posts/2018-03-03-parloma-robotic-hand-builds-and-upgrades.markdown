@@ -42,7 +42,7 @@ The connectors, upgraded to more robust options, has been moved to the side of t
 
 ![Power electronics 2](/assets/imgs/2018-03-03-parloma-imgs/IMG_0322.jpeg)
 
-Just in case a more robust and stable holding system is needed, a simple modular support stand has beed designed for the purpose. It is with the M4 screws lock system of the new forearm's base as well as the older one. 
+Just in case a more robust and stable holding system is needed, a simple modular support stand has beed designed for the purpose. It is compatible with the M4 screws lock system of the new forearm's base as well as the older version. 
 
 ![Holding System](/assets/imgs/2018-03-03-parloma-imgs/Stand.png)
 
